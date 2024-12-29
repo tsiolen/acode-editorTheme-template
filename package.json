@@ -4,7 +4,7 @@
   "description": "Template for Acode plugin Editor theme",
   "main": "dist/main.js",
   "repository": "https://github.com/legendSabbir/acode-editorTheme-template.git",
-  "author": "Legend Sabbir",
+  "author": "Tsio",
   "license": "MIT",
   "dependencies": {
     "html-tag-js": "^1.1.22"
